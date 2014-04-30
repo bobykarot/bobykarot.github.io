@@ -43,10 +43,13 @@ ul {
 
 a {
     text-decoration: none;
-    color: #BDB0AE;
-    padding: 30px 40px;
-    
+    color: #BDB0AE;  
 }
+
+#top a {
+	padding: 30px 40px;
+}
+
 a:hover{
     color: #E06B54;
 }
@@ -86,6 +89,10 @@ li {
     
 }
 
+.content a {
+	padding: 5px;
+}
+
 .content-title{
     padding-left: 30px;
 }
@@ -116,3 +123,4 @@ footer ul {
 #design {
 	padding-right: 30px;
 }
+
