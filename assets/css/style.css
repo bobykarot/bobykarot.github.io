@@ -90,8 +90,10 @@ li {
 }
 
 footer{
-    
-    bottom: 0px;
+    position: relative;
+    float: left;
+    clear: none;
+    /*bottom: 0;*/
     width: 100%;
     background: #313131;
     color:#BDB0AE;
