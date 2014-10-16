@@ -26,7 +26,17 @@ body {
     font-size: 16px;
     top: 0px;
     min-height: 40px;
+    background: #313131;
 }
+
+.site-title{
+    font: Ubuntu;
+    font-size: 75px;
+    color: #BDB0AE;
+    text-align: center;
+    padding: 10px;
+}
+
 
 #top-container {
     margin: 0;
